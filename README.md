@@ -1,1 +1,2 @@
-# calculadora
+-npm install- para instalar as depedencias
+-npm run dev- para iniciar a aplicação na porta 5173
